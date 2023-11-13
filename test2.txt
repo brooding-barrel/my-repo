@@ -1,1 +1,2 @@
-Adds a line
+Adds another line
+Changes a line
